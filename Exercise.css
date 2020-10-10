@@ -1,0 +1,42 @@
+body {
+  margin-left: 50px;
+  background-color: rgba(174, 236, 122, 0.219);
+}
+
+header h1 {
+  text-align: center;
+  color: seagreen;
+}
+
+li {
+  list-style: none;
+  color: blueviolet;
+  font-style: italic;
+}
+
+.delete {
+  color: bisque;
+  background-color: maroon;
+  border-color: maroon;
+  border-radius: 20px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+input[type="text"] {
+  border-radius: 20px;
+}
+
+#enter {
+  border-radius: 20px;
+  color: bisque;
+  background-color: purple;
+  border-color: purple;
+}
+
+#filter {
+  float: right;
+  margin-right: 30px;
+}
